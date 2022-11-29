@@ -1,6 +1,6 @@
 from moralis import evm_api
 
-api_key = "bo6U333WN5Aa2OnLzlr7uvcDzYJQPNYzwre5X0mGklSvtU9whJdflaO7Gil9cVN7"
+api_key = "YOUR API KEY HERE"
 
 
 def get_user_nfts(address=None, chain=None):
